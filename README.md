@@ -6,12 +6,13 @@ Youtuber and Developer
 
 I like to make Youtube videos and develop in my sapare times (as you cans see i don't have much spare time).
 
-* 🌍  I'm based in México
-* 🚀  I'm currently working on [BYTop](http://github.com/LBY-L/BYTop)
-* 🧠  I'm learning Python and Lua
-* 🤝  I'm open to collaborating on Python
+* 🌍 I'm based in México
+* 🚀 I'm currently working on [BYTop](http://github.com/LBY-L/BYTop)
+* 🧠 I'm learning Python and Lua
+* 🤝 I'm open to collaborating on Python
 * ⚡  I like Linux/Unix systems
-
+* 🎮 Compulsive gamer
+  
 <a href="https://www.github.com/LBY-L" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LBY-L?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/lby_l" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/lby_l?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
